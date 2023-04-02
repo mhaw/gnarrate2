@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.log
+*.swp
+*.swo
+*~
+*.bak
+*.cache
+*.egg-info/
+dist/
+build/
+output/

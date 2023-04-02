@@ -1,0 +1,15 @@
+{
+  "google_cloud": {
+    "bucket_name": "gnarrate2"
+  },
+  "podcast_feed": {
+    "title": "gNarrate2",
+    "author_name": "mike",
+    "author_email": "mikehaw@gmail.com",
+    "website_url": "https://google.com",
+    "subtitle": "gNarrate2",
+    "language": "en",
+    "feed_url": "https://storage.googleapis.com/gnarrate2/podcast_feed.xml",
+    "output_dir": "output"
+  }
+}
