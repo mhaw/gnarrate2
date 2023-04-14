@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>gNarrate2</title>
+    <link>https://storage.googleapis.com/gnarrate2/podcast_feed.xml</link>
+    <description>gNarrate2</description>
+    <atom:link href="https://storage.googleapis.com/gnarrate2/podcast_feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Apr 2023 02:02:25 +0000</lastBuildDate>
+    <item>
+      <title>‘One billionaire at a time’: inside the Swiss clinics where the super-rich go for rehab</title>
+      <link>https://www.theguardian.com/society/2023/feb/23/one-billionaire-at-a-time-swiss-clinics-super-rich-rehab-therapy-paracelsus-kusnacht?utm_source=pocket_collection_story</link>
+      <description>No description available.</description>
+      <guid isPermaLink="false">https://www.theguardian.com/society/2023/feb/23/one-billionaire-at-a-time-swiss-clinics-super-rich-rehab-therapy-paracelsus-kusnacht?utm_source=pocket_collection_story</guid>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to forgive yourself</title>
+      <link>https://psyche.co/guides/how-to-forgive-yourself-and-move-past-a-hurtful-mistake?utm_source=pocket_collection_story</link>
+      <description>No description available.</description>
+      <guid isPermaLink="false">https://psyche.co/guides/how-to-forgive-yourself-and-move-past-a-hurtful-mistake?utm_source=pocket_collection_story</guid>
+    </item>
+    <item>
+      <title>The Unbelievable Zombie Comeback of Analog Computing</title>
+      <link>https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/</link>
+      <description>No description available.</description>
+      <guid isPermaLink="false">https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/</guid>
+      <pubDate>Thu, 30 Mar 2023 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Transformed My 140-Square-Foot Queens Balcony Into a Garden Oasis</title>
+      <link>https://www.nytimes.com/wirecutter/blog/transforming-balcony-into-a-garden-oasis/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=RSS%20Feed</link>
+      <description>No description available.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/wirecutter/blog/transforming-balcony-into-a-garden-oasis/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=RSS%20Feed</guid>
+      <enclosure url="https://storage.googleapis.com/gnarrate2/article_1_20230401-234000.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Microsoft exploit could control Bing search results and Office 365 data</title>
+      <link>https://www.theverge.com/2023/3/30/23661426/microsoft-azure-bing-office365-security-exploit-search-results</link>
+      <description>No description available.</description>
+      <guid isPermaLink="false">https://www.theverge.com/2023/3/30/23661426/microsoft-azure-bing-office365-security-exploit-search-results</guid>
+      <enclosure url="https://storage.googleapis.com/gnarrate2/article_1_20230401-222054.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
