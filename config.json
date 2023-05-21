@@ -3,13 +3,19 @@
     "bucket_name": "gnarrate2"
   },
   "podcast_feed": {
-    "title": "gNarrate2",
-    "author_name": "mike",
-    "author_email": "mikehaw@gmail.com",
-    "website_url": "https://google.com",
-    "subtitle": "gNarrate2",
-    "language": "en",
-    "feed_url": "https://storage.googleapis.com/gnarrate2/podcast_feed.xml",
+    "id": "gnarrate2",
+    "title": "gnarrate2",
+    "author": "mike",
+    "email": "mike@gnarrate2.com",
+    "link": "gnarrate2.com",
+    "subtitle": "speak_it",
+    "feed_url": "gnarrate2.com",
+    "language": "en-us",
     "output_dir": "output"
+  },
+  "text_to_speech": {
+    "max_chunk_size": 4500,
+    "speaking_rate_range": [0.8, 1.2],
+    "pitch_range": [-2, 2]
   }
 }

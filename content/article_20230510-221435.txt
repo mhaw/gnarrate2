@@ -1,0 +1,79 @@
+As a kid, I started typing by tapping in cheat codes on ’90s PC games like Doom and Rise of the Triad, but it wasn’t until the covid pandemic that I finally ditched my awkward hunt-and-peck technique and learned touch typing.
+
+If you don’t know how to touch type, there are very approachable ways you can learn on your own. You may think you do just fine ham-fisting your way through the keys, but with a little effort, you can learn to type faster, use your fingers more ergonomically, and rarely have to take your eyes off your screen as you clackity-clack-clack-clack along.
+
+If you’ve been relying on only a few fingers to type, it’s going to take some time to adjust and get those idle digits cracking along. At first, you may type as slow as molasses while you learn what fingers are responsible for what keys, but that’s okay. Even if you start off at 20 words per minute, it’s key to focus on accuracy and building that new muscle memory from the ground up. Just like playing a musical instrument, hit the right notes first — then do it faster.
+
+The home row resting position and the corresponding keys for each finger. Image: Keybr
+
+Touch typing begins with anchoring your fingers on the home row. On a QWERTY layout keyboard, that involves resting your left fingers on A, S, D, and F while your right digits are on J, K, L, and semicolon. Both thumbs should hover over / rest on the space bar. Do you feel a little raised bump, nub, or other signifier on the F and J keys? Most keycaps have some tactile accent making these two keys feel different. That’s how you find these important keys to anchor your index fingers and let the rest fall into place, even without looking.
+
+It’s easy to get started with different kinds of training apps (the majority of which are free) that simplify the typing experience and even make it fun. In this article, I’ll first walk you through a variety of options for you to try and then add some dos and don’ts that should get you learning new finger muscle memory to make you much, much faster.
+
+My favorite typing apps
+
+Keybr starts you off with limited keys and slowly lights more up as it introduces them into your routine.
+
+When it comes to free resources for learning how to touch-type, I highly recommend using Keybr on a desktop browser. This site automatically builds typing lessons for you by measuring your initial skill (accuracy and speed) and generates practice lessons that focus first on the most frequently used letters. It then slowly ramps up with more letters to type and fingers to use. You’ll be typing a mix of real words and fake words that follow familiar-looking phonetic structures, so it works your fingers without abstracting away all semblance of language.
+
+By making an account with Keybr (via email, Google, or Facebook sign-ins), you can save your progress and pick up where you left off. Keybr also offers a premium account for a one-time $10 purchase that removes ads and disables ad trackers, though the on-page ads are not very invasive.
+
+The key to using Keybr, just like any typing tool, is consistency. Keep practicing daily and the program will work you through all the keys before you know it. Once you’ve “unlocked” all the keys, keep forging ahead and focusing on accuracy. Your speed will slowly go up over time.
+
+You can see from my practice calendar that my prime learning time was about six weeks of fairly consistent practicing. Keybr also saves other nifty data about your progress in your profile, like your best and worst letters.
+
+And then, just when you start to get some confidence, try turning on capital letters and punctuation in Keybr’s settings. I assure you, it will suck at first, but you gotta learn those shift keys eventually. Best practice dictates that you should use the pinky finger of the opposite hand that’s typing the capital letter, but in reality, I’m sure many of us slip on that fine detail.
+
+I don’t love that Keybr adds capitalization and punctuation to every single word when you enable those settings, but you can always switch it off when you want to pivot back to focusing on character speed. Plus, once you start feeling generally comfortable touch typing without looking, you can always switch from Keybr to another program that incorporates more real-world use of caps and symbols.
+
+Monkeytype offers myriad controls for custom-tailoring your typing lessons. For example, I’ve themed mine with Verge colors (which you can use, too), while that user-submitted text prompt is from the anime Neon Genesis Evangelion.
+
+Once you start getting the hang of touch typing, the site that I continuously return to is Monkeytype. Monkeytype is the sleekest, most customizable type tester I’ve come across. Its clean interface allows you to load it up and hammer out some phrases in a matter of seconds, or you can dive into the options and custom-tailor something unique. The site has all kinds of cool templates and styles for you to customize. You can test based on time or phrase length, and you can also choose to incorporate punctuation, capitalization, longer or shorter passages, or extra-hard parameters — like failing if you make a single mistake or dip below a words-per-minute threshold. You can even load up randomly generated tests that pull from movie, book, and TV quotes.
+
+Really, there’s a lot of fun stuff to tinker with on Monkeytype, ranging from the color layout to weird graphical effects that may test your threshold for motion sickness as much as your typing.
+
+Little Women isn’t just a timeless American coming-of-age novel — it makes for a fun typing exercise.
+
+Want to practice typing while reading classics by George Orwell, Dante Alighieri, F. Scott Fitzgerald, and more? TypeLit.io has dozens of books for you to practice typing with, like The War of the Worlds or Sense and Sensibility. There’s even William Strunk Jr.’s The Elements of Style, so you can learn 1920s-era American-English writing style while you type.
+
+This may be a bit of a novelty, but it’s a charming take on typing practice. It offers thousands of pages of actual literary text, which makes for some good exercises.
+
+It’s basic looking, but Typing Trainer gets the job done and has some handy lessons if you want to practice specific trouble spots in your typing.
+
+Brace yourself for some antiquated design and graphics. Typing Trainer may look like the cheesy programs we used as kids, but it’s still an effective learning tool. You can work your way through a series of courses from the very beginning or jump into some timed tests.
+
+Typing Trainer also has some browser games you can play, where you can race a car or blast alien spaceships by, you guessed it, typing. They’re pretty basic, with an early-2000s flash game aesthetic, but they’re a fun distraction to practice with.
+
+Mamma mia! What the hell is going on with Toad’s face in this title screen?
+
+Many of us olds might remember the 1992 DOS classic Mario Teaches Typing, made for Nintendo by Interplay. You can now play the whole game free in your browser courtesy of the Internet Archive. It’s very dated and probably not the best way to learn today since it’s stuck in the old ways of grueling and unrelenting repetition using lots of individual letters and repeated sequences, but it’s worth it for a laugh and the nostalgia trip. Fun fact: this was the first game where Mario spoke, and the voice lines are hilariously bad, sounding like they’re trying the Italian-American accent thing way too hard.
+
+Plus, there’s a writing prompt about the American Civil War that seems to downplay the significance of slavery in the cause of the war. So, yeah, be prepared for some problematic stuff buried in there.
+
+Not only do you type your way through battles in Epistory, but the movement keys are situated on the home row to keep your hands in the right position. It takes a little getting used to, but in this case, it’s better than using traditional WASD controls. Image: Fishing Cactus
+
+Epistory - Typing Chronicles is a charming Steam-based action-adventure game with a papercraft aesthetic that uses typing to activate the powers of your fox-riding protagonist and fight monsters while exploring a fantasy world. I find Epistory to be a little dry at times, but it’s a pretty game, and I admire its fun twist on the typing genre. It’s a novel way to practice once you’ve started getting the hang of touch typing, and if you enjoy it, there’s even a sequel due out soon.
+
+Putting down zombies with a rat-a-tat-tat as you feverishly tap away on your keys just somehow feels right. Image: Sega
+
+This is an on-rails shooter spinoff of the House of the Dead games, where typing words fires bullets at zombies. The Typing of the Dead: Overkill is a visceral experience that’s good for a cheap thrill while typing, though it shows some of its 2010s-era cringe with campy jokes and characters that lean on tired stereotypes. It’s like a C-movie video game with B-level typing, but I can’t help myself from enjoying it and recommending it.
+
+More tips for learning touch-typing skills
+
+Having gone through this learning process myself and being a bit of a nerd for mechanical keyboards (the two often go hand-in-hand), here’s some further advice and best practices on developing your touch-typing expertise.
+
+Dos:
+
+Practice regularly. Ideally, once a day.
+
+Turn practicing into a regular routine or habit, like starting your day with it while drinking your morning coffee.
+
+Test yourself with capital letters, punctuation, and even numbers. Real-world typing isn’t just lowercase letters!
+
+Look ahead to the next word on a typing prompt. You type faster when you know what’s coming next. Think of it like Tetris.
+
+Use the same methods for learning alternate keyboard layouts like Dvorak and Colemak. Sites like Keybr and Monkeytype offer training in all of them, though QWERTY is the default.
+
+Use your newfound love of typing as an excuse to get into mechanical keyboards. Sure, they won’t help you type faster, but they sound and look cool, and it’s a fun rabbit hole to dive into.
+
+Don’ts:

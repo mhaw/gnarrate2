@@ -1,0 +1,57 @@
+Crusader Kings 3 doesn’t have boss fights or puzzles like many other kinds of video games. But I am convinced that it does have one kind of enemy: its user interface.
+
+And yet, it’s one of the rare games that I have stayed up all night playing, even knowing I work the next day. When it gets its hooks into me, they dig in deep. Crusader Kings 3 is a strategy game where you play as a landowner during the Latin holy wars. It’s open-ended, and the goals are driven by the player, but most people play with the intention of creating an empire that’s larger than any other on the map through subterfuge, war, diplomacy, or just buying everyone out.
+
+If that sounds exciting, then I’m here to tell you that most of the game asks players to look at a very intricate map — a highly detailed and factually accurate one of the area in either 867 or 1066. Once you hit play, then inevitably, history warps, both by your actions and by the game’s simulation making decisions for all the other landowners on the board.
+
+I’ve destroyed the Catholic church, launched a European invasion from India, and, with some effort, given Judaism a foothold in Sweden
+
+The great fun of Crusader Kings 3 is watching history change in unpredictable ways. I’ve destroyed the Catholic church, launched a European invasion from India, and, with some effort, given Judaism a foothold in Sweden. It’s possible to send things in fascinating directions — once you’re able to wrangle the overwhelming amounts of information that the game is trying to show to you at all times.
+
+Crusader Kings is a series that I want to share with my friends, but most take one look at the user interface and bounce right off it. There’s simply a lot of stuff on the screen: menus that beget more menus, several lists of currencies that you’ll need to pay attention to, plus all the data about how characters feel about you, your own personality traits that affect gameplay — the list goes on and on, and you need to know all of it.
+
+Because this information is so plentiful, sometimes it’s portrayed in a kind of shorthand, using icons to denote that this character has one eye (an eye patch) or that character has an STD (a bee pollinating a flower). Understanding how to ensure your lineage can stay landowners and maybe even amass power means understanding your relationships to your vassals, your liege, and your military strength. You’ll also have to get familiar with clicking around on the map itself to learn about your neighboring rulers and their vassals, and all of this will also change over time. It feels like you’re surrounded by dozens of ticking clocks, all counting down to a potential disaster.
+
+Perpetual crisis, it turns out, is a perfect gameplay loop
+
+Part of the reason I can’t put it down is because it’s hard to ever feel like your many resources are all in good shape; there is no good stopping point because you’re always just on the edge of another disaster. My ability to persevere is dependent upon knowing what all my options are. Perpetual crisis, it turns out, is a perfect gameplay loop.
+
+Developers at Paradox Interactive, the developer of Crusader Kings 3, are aware of the conundrum: that the level of complexity in their games can sometimes make them less accessible to players, even though that level of complexity is what players like about their games. Though developers at Paradox say that some players do long for the older, more complex user interface, Crusader Kings 3 was a deliberate attempt to streamline the game’s UI.
+
+“I think one struggle in games with a lot of characters or countries is ‘Wait, who is this guy?’” Jonas Wickerström, UX designer on Crusader Kings 3, told me. “It can be hard to tell characters apart or try to remember your history with them.”
+
+Petter Lundh, 2D lead artist at Paradox Interactive, worries that the friction of the game’s menus will frustrate players and lead them to give up on the game entirely. “We want the player’s imagination and problem-solving abilities to stay focused on the game world rather than being wasted on usability issues,” he said.
+
+It’s embarrassing to admit when a game has simply flummoxed you and you aren’t even sure what to click on or what to pay attention to
+
+Crusader Kings 3 is the kind of game a lot of players love to hear stories about — the subreddit Shit Crusader Kings Says is full of posts asking for help on how to marry your sister — but can sometimes be intimidating to actually play. It’s embarrassing to admit when a game has simply flummoxed you and you aren’t even sure what to click on or what to pay attention to. Even as a veteran player, playing in a new culture or religion can sometimes leave me lost in terms of where to go next. My friend Emily Lipstein, social media manager for Motherboard, told me that at first, she found the game incredibly daunting.
+
+“I am not kidding when I say that I feel like I had to obtain a master’s degree for playing this game on my own,” she said.
+
+She told me that only after watching around 90 hours of a YouTuber playing the game did she feel comfortable enough to buy it and try it herself.
+
+Paradox’s goal is not to intimidate the player. In fact, its solution for analysis paralysis is to try and give players better ways to answer their questions within the game itself, which, of course, starts with the map.
+
+“Players spend a lot of time looking at it, so it must both be functional and look good. In previous titles, you often had to toggle between two or even three different map modes to see what you wanted,” Wickerström said. For Crusader Kings 3, they decided to have the amount of information that the game shows you change depending on how zoomed in or zoomed out from the map you are.
+
+“Getting the right balance of information as you zoom in and out is very hard,” Wickerström said. “That being said, doing it this way means you can spend most of your time in a single map mode and interact with anything using just your left mouse button.”
+
+A screenshot from Crusader Kings 3.
+
+Emily told me she plays Crusader Kings 3 as a “medieval dating simulator,” roleplaying each new heir in accordance to the stats that each heir has. Some players might look at a ruler who is shy, for instance, and see it as a hindrance to their goals. To someone like Emily, it’s a chance to explore all the options the game has to offer, some of which she has stumbled on by mistake.
+
+“I especially remember this one playthrough where the guy I was playing became a witch, randomly,” she said. “Then suddenly I was like, How does the witch mechanic even work? Because that is something that is baked into the game, clearly, and has this whole infrastructure that you could spend hundreds of hours playing and not even explore.”
+
+Emily said that the most helpful thing the game provides for players who are confused by its user interface is the ability to mouse over a highlighted term and read the pop-up window called a “tooltip” that explains the term. Pausing the game to read a definition doesn’t sound like a thrill ride, but Crusader Kings 3 lets players nest tooltips within tooltips, meaning you can functionally teach yourself all the gameplay terminology you need without ever leaving the program.
+
+“When playing [Paradox] games, you use tooltips a lot to get more detailed information. Sometimes, that information got complicated, and the tooltips got very big,” Wickerström said.
+
+“I think that is when people started thinking: ‘Why can’t I just move my mouse inside the tooltip?’”
+
+(For Crusader Kings 2, I used to play the game with the fan wiki open in a browser window — it was too hard to memorize all of the mechanics. You can see why the sequel’s decision to explain itself without making the player exit would make the game more immersive.)
+
+Tooltips within tooltips in Crusader Kings 3.
+
+While the point of the game isn’t to nest tooltips within tooltips, it sometimes feels like a visualization of going down the rabbit hole that is Crusader Kings 3. It’s a game that will always have to ask its players to deal with a little bit of friction to understand it, but navigating that friction makes the payoff of finally knowing what everything means all the more satisfying. The deeper your understanding of how each element of the user interface works, the more powerful of a player you become. Still, smoothing out some of the rougher edges of the game’s user experience does broaden their audience and also helps the developers at Paradox keep this game as sophisticated as it’s always been.
+
+“The more effort we put into art and UX, the more complicated mechanics we will be able to communicate successfully. In fact, there are often such significant gains to be made in presentation and UI flow alone that simplifying game mechanics is not needed,” Lundh said. “Just because a game appears simple and intuitive does not imply that it lacks complex gameplay interactions and vice versa.”
